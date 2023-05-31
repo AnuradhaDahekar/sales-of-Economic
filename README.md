@@ -1,5 +1,5 @@
- sales-of-Economic
-1.Task Done :
+sales-of-Economic
+Task Done :
 2.Collect and clean the data to find out the best feature for our data.
 3. Exploratory data analysis using various plots for a better understanding
 4. Finding the country wise customer Gender.
